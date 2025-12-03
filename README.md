@@ -23,8 +23,6 @@ https://portfoliosteamapi.kesug.com/)
     <img  aling="center" alt="CSS" src="https://img.shields.io/badge/-VSCode-1f425f.svg">
 </div>
 
-![Stats](https://github-readme-stats-git-master-rstaa-rick.vercel.app/api?username=l-Petrick-l)
-
 
 
 
