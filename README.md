@@ -1,6 +1,7 @@
 ## Olá, seja bem vindo(a)! Eu sou Bryan Petrick👋
+#### English / Portugûes - Brasil
 
-### Quer entrar em contato?
+### Deseja entrar em contato?
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/bryan-petrick-40a32b289/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](
