@@ -1,19 +1,33 @@
-## Olá, seja bem vindo(a)! Eu sou Bryan Petrick👋
-#### English / Portugûes - Brasil
+## Olá, eu sou Bryan Petrick 👋
+Engenheiro da Computação em formação | Desenvolvedor Full Stack
 
-### Deseja entrar em contato?
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/bryan-petrick-40a32b289/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](
-mailto:www.bryanpetrick@gmail.com?subject=Bryan&body=Olá!)
-[![Telegram](    https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](
-https://t.me/bryanpetrick)
+🌐 English / Português - Brasil
 
-### Meus Projetos
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](
-https://portfoliosteamapi.kesug.com/)
+---
 
-### Linguagens e programas do dia a dia
+### 🚀 Sobre mim
+Desenvolvedor focado em aplicações web utilizando PHP, JavaScript, HTML, CSS e MySQL.  
+Tenho interesse em criar soluções eficientes e melhorar processos através da tecnologia.
+
+---
+
+### 📂 Projetos em destaque
+
+🔹 **Steam API Web**
+Sistema web que consome dados da Steam, com integração de API e interface dinâmica.  
+➡️ https://steamapi.kesug.com/
+
+---
+
+### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/bryan-petrick-40a32b289/)  
+Email: www.bryanpetrick@gmail.com  
+Telegram: https://t.me/bryanpetrick  
+
+---
+
+
+### 🛠️ Tecnologias
 <div style="display: inline_block"><br/>
     <img  aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img  aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -27,4 +41,4 @@ https://portfoliosteamapi.kesug.com/)
 
 
 
-### Sempre aprendendo, sempre codificando. O próximo desafio é o que me move.
+### O próximo desafio é o que me move.
