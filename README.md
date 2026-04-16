@@ -10,6 +10,7 @@ Desenvolvedor focado em aplicações web utilizando PHP, JavaScript, HTML, CSS e
 Tenho interesse em criar soluções eficientes e melhorar processos através da tecnologia.
 
 Atualmente evoluindo minhas habilidades em Node.js, React e Python, com foco em desenvolvimento de aplicações modernas e escaláveis.
+
 ---
 
 ### 📂 Projetos em destaque
