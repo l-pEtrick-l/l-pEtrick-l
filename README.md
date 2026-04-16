@@ -13,10 +13,12 @@ Tenho interesse em criar soluções eficientes e melhorar processos através da 
 
 ### 📂 Projetos em destaque
 
-🔹 **Steam API Web**
+🔹 **Steam API Web (em desenvolvimento)**
 Sistema web que consome dados da Steam, com integração de API e interface dinâmica.
 
 👥 Atuei como líder técnico de uma equipe com 7 desenvolvedores, sendo responsável pela organização do projeto, divisão de tarefas e suporte no desenvolvimento full stack.
+
+🚧 Projeto em andamento, já disponível para visualização.
 
 ➡️ https://steamapi.kesug.com/
 ---
