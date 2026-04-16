@@ -9,6 +9,7 @@ Engenheiro da Computação em formação | Desenvolvedor Full Stack
 Desenvolvedor focado em aplicações web utilizando PHP, JavaScript, HTML, CSS e MySQL.  
 Tenho interesse em criar soluções eficientes e melhorar processos através da tecnologia.
 
+Atualmente evoluindo minhas habilidades em Node.js, React e Python, com foco em desenvolvimento de aplicações modernas e escaláveis.
 ---
 
 ### 📂 Projetos em destaque
@@ -16,7 +17,7 @@ Tenho interesse em criar soluções eficientes e melhorar processos através da 
 🔹 **Steam API Web (em desenvolvimento)**
 Sistema web que consome dados da Steam, com integração de API e interface dinâmica.
 
-👥 Atuei como líder técnico de uma equipe com 7 desenvolvedores, sendo responsável pela organização do projeto, divisão de tarefas e suporte no desenvolvimento full stack.
+👥 Atuando como líder técnico de uma equipe com 7 desenvolvedores, sendo responsável pela organização do projeto, divisão de tarefas e suporte no desenvolvimento full stack.
 
 🚧 Projeto em andamento, já disponível para visualização.
 
