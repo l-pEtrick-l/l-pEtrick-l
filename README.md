@@ -70,7 +70,7 @@ Sistema web que consome dados da Steam, com integração de API e interface din�
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-1f425f?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </div>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apil-pEtrick-l=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align="center">
  O próximo desafio é o que me move.
 </h2>
