@@ -1,6 +1,6 @@
 ## Olá, eu sou Bryan Petrick 👋
 <div aling="center">
- <img src"https://github.com/l-pEtrick-l/l-pEtrick-l/issues/1#issue-4297845623">
+ <img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/0cec06d2-2033-45fc-9702-b4751208cdb3" />
 </div>
 Engenheiro da Computação em formação | Desenvolvedor Full Stack
 
