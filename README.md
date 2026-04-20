@@ -1,4 +1,7 @@
 ## Olá, eu sou Bryan Petrick 👋
+<div aling="center">
+ <img src"https://github.com/l-pEtrick-l/l-pEtrick-l/issues/1#issue-4297845623">
+</div>
 Engenheiro da Computação em formação | Desenvolvedor Full Stack
 
 🌐 English / Português - Brasil
