@@ -8,15 +8,14 @@
 <div align="center">
   <img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/5945a0f8-4fd0-4ca1-9e4f-6024328e181f" />
 </div>
-<p align="center">
+<h2 align="center">
   Engenheiro da Computação em formação | Desenvolvedor Full Stack
-</p>
+</h2>
 
 <p align="center">
   🌐 English / Português - Brasil
 </p>
 
----
 <h2 align="center">
   🚀 Sobre mim
 </h2>
@@ -26,7 +25,6 @@ Tenho interesse em criar soluções eficientes e melhorar processos através da 
 
 Atualmente evoluindo minhas habilidades em Node.js, React e Python, com foco em desenvolvimento de aplicações modernas e escaláveis.
 
----
 
 <h2 align="center">
   📂 Projetos em destaque
@@ -44,7 +42,6 @@ Sistema web que consome dados da Steam, com integração de API e interface din�
 </h2>
 
 
----
 <h2 align="center">
  📫 Contato
 </h2>
@@ -55,7 +52,6 @@ Sistema web que consome dados da Steam, com integração de API e interface din�
 <a href="https://www.linkedin.com/in/bryan-petrick-40a32b289" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
----
 
 <h2 align="center">
  🛠️ Tecnologias
